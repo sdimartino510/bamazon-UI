@@ -40,11 +40,12 @@ p {
   background: black;
 }
 .jumbotron {
-  background-image: url(../images/rockOn_dark.jpg);
+  /* background-image: url(../images/rockOn_dark.jpg); */
+  background-color: #16181b;
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
-  height: calc(100vh - 25px);
+  height: calc(40vh - 25px);
   display: flex;
   align-items: center;
   justify-content: center;
